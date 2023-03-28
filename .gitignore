@@ -1,4 +1,2 @@
 .env
-scripts/bal.js
-scripts/bal2.js
-scripts/realTest/*
+scripts/old/*
